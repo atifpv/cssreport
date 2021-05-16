@@ -1,0 +1,25 @@
+h2{
+    background-color: gray;
+    color: black;
+  }
+
+#title{
+  color: aqua;
+}
+
+.content{
+  background-color: black;
+  color: grey;
+}
+
+.test{
+  width: 100px;
+  height: 200px;
+  background: grey;
+  color: black;
+  border: 5px solid;
+  border-color: darkslategray;
+  margin-left: 100px;
+  margin-top: 10px;
+  padding-left: 20px;
+}
